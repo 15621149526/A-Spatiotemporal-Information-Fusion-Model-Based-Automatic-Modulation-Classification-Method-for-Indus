@@ -1,2 +1,2 @@
 # APC-CNNGRU-Attn
-A dial-in recognition method based on spatio-temporal feature extraction
+The paper has been submitted to ACM Transactions on Autonomous and Adaptive Systems for consideration of publication.
